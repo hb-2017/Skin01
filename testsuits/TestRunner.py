@@ -4,9 +4,9 @@
 
 import HTMLTestRunner
 import os
-import unittest
 import time
-from testsuits.skin01_login_unit import skin01_login
+import unittest
+from testsuits.skin01_login.skin01_login_unit import skin01_login
 
 # 设置报告文件保存路径
 report_path = os.path.dirname(os.path.abspath('.')) + '/test_report/'
@@ -21,15 +21,22 @@ fp = open(HtmlFile, "wb")
 suite = unittest.TestLoader().discover("testsuits")
 
 if __name__ == '__main__':
-    print('自动化测试开始')
+    # print('自动化测试开始')
     # 初始化一个HTMLTestRunner实例对象，用来生成报告
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title=u"skin01项目测试报告", description=u"用例测试情况")
     # 开始执行测试套件
     runner.run(suite)
 
 
-
-
-
-
+# import unittest
+# import testsuits
+# from testsuits.skin01_login_unit import skin01_login
+#
+# suite = unittest.TestSuite()
+# suite.addTest(skin01_login('test_skin01_login'))
+#
+# if __name__ == '__main__':
+#     # 执行用例
+#     runner = unittest.TextTestRunner()
+#     runner.run(suite)
 

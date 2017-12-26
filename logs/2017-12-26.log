@@ -52,3 +52,87 @@
 2017-12-26 10:01:48,182 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
 2017-12-26 10:01:48,193 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
 2017-12-26 10:01:48,193 - ERROR - skin01_login[line:81] - new165 lonin_test fail
+2017-12-26 18:54:38,084 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 18:54:38,088 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 18:54:48,393 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 18:54:49,907 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 18:54:51,403 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 18:54:51,407 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 18:54:51,622 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 18:54:51,907 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 18:54:51,984 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 18:54:52,107 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 18:54:55,279 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 18:54:55,363 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 18:54:55,375 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 18:54:55,398 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 18:54:55,519 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 18:54:55,550 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 18:54:55,631 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-26 18:55:00,973 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 18:55:01,001 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 18:55:01,054 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-26 18:55:02,065 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-26 19:01:22,513 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 19:01:22,513 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 19:01:33,641 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 19:01:35,024 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 19:01:36,446 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 19:01:36,447 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 19:01:37,441 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:01:37,990 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:01:38,108 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:01:38,265 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 19:01:41,407 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 19:01:41,495 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 19:01:41,507 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 19:01:41,534 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:01:41,651 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:01:41,695 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:01:41,841 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-26 19:01:47,185 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:01:47,197 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:01:47,204 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-26 19:01:48,033 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-26 19:02:13,740 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 19:02:13,740 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 19:02:18,203 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 19:02:19,833 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 19:02:21,348 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 19:02:21,352 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 19:02:21,480 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:02:21,811 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:02:21,889 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:02:22,025 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 19:02:25,160 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 19:02:25,246 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 19:02:25,260 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 19:02:25,281 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:02:25,365 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:02:25,393 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:02:25,473 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-26 19:02:34,355 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:02:34,366 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:02:34,371 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-26 19:02:35,000 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-26 19:04:45,700 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 19:04:45,700 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 19:04:50,152 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 19:04:51,588 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 19:04:53,022 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 19:04:53,026 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 19:04:53,147 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:04:53,390 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:04:53,488 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:04:53,702 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 19:04:56,848 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 19:04:56,921 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 19:04:56,936 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 19:04:56,958 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 19:04:57,049 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 19:04:57,081 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 19:04:57,387 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-26 19:05:03,310 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:05:03,326 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-26 19:05:03,332 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-26 19:05:04,113 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
