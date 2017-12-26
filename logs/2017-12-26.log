@@ -1,0 +1,54 @@
+2017-12-26 09:55:39,161 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 09:55:39,161 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 09:55:45,208 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 09:55:49,203 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 09:55:50,702 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 09:55:50,707 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 09:56:10,275 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 09:56:10,671 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 09:56:10,773 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 09:56:10,957 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 09:56:29,724 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 09:56:32,055 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 09:57:38,092 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 09:57:38,096 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 09:57:42,647 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 09:57:44,654 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 09:57:46,108 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 09:57:46,111 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 09:57:46,226 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 09:57:46,387 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 09:57:46,462 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 09:57:46,575 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 09:57:49,995 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 09:57:50,143 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 09:57:50,156 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 09:57:50,156 - ERROR - skin01_login[line:81] - new165 lonin_test fail
+2017-12-26 09:58:34,365 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 09:58:34,366 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 09:58:39,049 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 09:58:40,289 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 09:58:41,717 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 09:58:41,720 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 09:58:41,836 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 09:58:42,016 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 09:58:42,083 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 09:58:42,206 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 09:58:45,348 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 09:58:45,427 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 09:58:45,440 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 09:58:45,440 - ERROR - skin01_login[line:81] - new165 lonin_test fail
+2017-12-26 10:01:12,828 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-26 10:01:12,828 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-26 10:01:18,973 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-26 10:01:40,275 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-26 10:01:41,728 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-26 10:01:41,733 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-26 10:01:44,424 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-26 10:01:44,615 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-26 10:01:44,697 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-26 10:01:44,872 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-26 10:01:48,095 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-26 10:01:48,182 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-26 10:01:48,193 - ERROR - skin01_login[line:71] - new165 lonin_test fail,error is 密码不能为空
+2017-12-26 10:01:48,193 - ERROR - skin01_login[line:81] - new165 lonin_test fail

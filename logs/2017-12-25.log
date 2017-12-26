@@ -1,0 +1,434 @@
+2017-12-25 15:31:53,041 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 15:31:53,042 - INFO - BrowserEngine[line:34] - The test server url is: https://www.baidu.com
+2017-12-25 15:31:59,355 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 15:32:03,345 - INFO - BrowserEngine[line:47] - Open url: https://www.baidu.com
+2017-12-25 15:32:04,845 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 15:32:04,848 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 15:32:05,688 - INFO - Basepage[line:104] - Had find the element ' 锟斤拷锟斤拷 ' successful by x via value: //*[@id='u1']/a[@name='tj_trnews'] 
+2017-12-25 16:39:08,912 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 16:39:08,928 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 16:39:15,134 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 16:39:19,062 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 16:39:20,476 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 16:39:20,484 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 16:39:20,554 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 16:39:20,739 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 16:39:20,792 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 16:39:20,923 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 16:39:21,007 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 16:39:21,101 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 16:39:21,123 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 16:57:37,714 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 16:57:37,714 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 16:57:41,879 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 16:57:45,950 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 16:57:47,423 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 16:57:47,423 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 16:57:47,485 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 16:57:47,653 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 16:57:47,707 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 16:57:47,862 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 16:57:47,929 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 16:57:48,003 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 16:57:48,027 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 16:58:40,845 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 16:58:40,845 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 16:58:44,973 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 16:58:46,013 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 16:58:47,435 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 16:58:47,437 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 16:58:47,492 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 16:58:47,677 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 16:58:47,744 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 16:58:47,875 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 16:58:47,951 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 16:58:48,045 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 16:58:48,055 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 16:59:29,938 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 16:59:29,938 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 16:59:33,933 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 16:59:35,030 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 16:59:36,529 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 16:59:36,529 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 16:59:36,591 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 16:59:36,779 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 16:59:36,833 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 16:59:36,989 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 16:59:37,056 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 16:59:37,163 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 16:59:37,172 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 17:00:22,957 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:00:22,957 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:00:27,138 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:00:28,484 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:00:29,918 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:00:29,918 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:00:29,982 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:00:30,156 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:00:30,229 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:00:30,372 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:00:30,436 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 17:00:30,514 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 17:00:30,532 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 17:02:21,034 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:02:21,034 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:02:25,155 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:02:26,646 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:02:28,114 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:02:28,117 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:02:28,208 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:02:28,374 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:02:28,442 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:02:28,590 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:02:28,658 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 17:02:28,758 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 17:02:30,762 - INFO - Basepage[line:152] - Sleep for 2 seconds
+2017-12-25 17:02:30,777 - INFO - Basepage[line:146] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 17:03:11,174 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:03:11,174 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:03:15,377 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:03:16,822 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:03:18,282 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:03:18,288 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:03:18,380 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:03:18,556 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:03:18,626 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:03:18,785 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:03:18,846 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: remeber 
+2017-12-25 17:03:18,944 - INFO - Basepage[line:140] - The element '  ' was clicked.
+2017-12-25 17:03:20,951 - INFO - Basepage[line:152] - Sleep for 2 seconds
+2017-12-25 17:03:41,335 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:03:41,335 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:03:45,527 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:03:47,069 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:03:48,564 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:03:48,571 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:03:48,699 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:03:48,889 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:03:48,948 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:03:49,132 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:03:49,184 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:04:23,747 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:04:23,762 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:04:27,784 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:04:28,732 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:04:30,197 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:04:30,200 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:04:30,267 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:04:30,439 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:04:30,502 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:04:30,641 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:04:30,713 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:05:32,930 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:05:32,930 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:05:36,981 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:05:38,080 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:05:39,554 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:05:39,557 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:05:39,642 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:05:39,804 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:05:39,859 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:05:40,003 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:05:40,058 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:06:10,153 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:06:10,153 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:06:14,145 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:06:15,092 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:06:16,560 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:06:16,560 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:06:16,625 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:06:16,803 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:06:16,861 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:06:17,017 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:06:21,527 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:07:25,978 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:07:25,978 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:07:30,466 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:07:31,459 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:07:32,916 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:07:32,916 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:07:32,986 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:07:33,165 - INFO - Basepage[line:120] - Had type ' New165 ' in inputBox
+2017-12-25 17:07:33,233 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:07:33,433 - INFO - Basepage[line:120] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:07:33,484 - INFO - Basepage[line:86] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:10:34,185 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:10:34,185 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:10:38,884 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:10:40,833 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:10:42,246 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:10:42,256 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:10:42,356 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:10:42,547 - INFO - Basepage[line:122] - Had type ' New165 ' in inputBox
+2017-12-25 17:10:42,621 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:10:42,763 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:10:42,826 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: submit 
+2017-12-25 17:11:43,496 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:11:43,497 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:11:47,607 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:11:48,704 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:11:50,123 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:11:50,124 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:11:50,195 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:11:50,357 - INFO - Basepage[line:122] - Had type ' New165 ' in inputBox
+2017-12-25 17:11:50,464 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:11:50,611 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:12:32,469 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:12:32,469 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:12:36,712 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:12:37,812 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:12:39,248 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:12:39,253 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:12:39,314 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:12:39,484 - INFO - Basepage[line:122] - Had type ' New165 ' in inputBox
+2017-12-25 17:12:39,567 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:12:39,705 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:12:41,785 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 | 锟斤拷锟斤拷锟斤拷印
+2017-12-25 17:12:56,842 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 17:12:56,843 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 17:13:01,499 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 17:13:02,618 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 17:13:04,055 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 17:13:04,057 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 17:13:04,124 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 17:13:04,289 - INFO - Basepage[line:122] - Had type ' New165 ' in inputBox
+2017-12-25 17:13:04,357 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 17:13:04,492 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 17:13:06,634 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 | 锟斤拷锟斤拷锟斤拷印
+2017-12-25 17:13:06,647 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 | 锟斤拷锟斤拷锟斤拷印
+2017-12-25 18:08:42,778 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:08:42,778 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:08:47,688 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:08:50,926 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:08:52,449 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:08:52,452 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:09:17,821 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:09:17,821 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:09:22,475 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:09:28,008 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:09:29,430 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:09:29,433 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:10:27,357 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:10:27,357 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:10:31,722 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:10:34,593 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:10:36,071 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:10:36,076 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:12:47,292 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:12:47,292 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:12:51,730 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:12:52,936 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:12:54,404 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:12:54,405 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:13:48,569 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:13:48,569 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:13:53,050 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:13:54,105 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:13:55,569 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:13:55,570 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:13:55,645 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:13:55,833 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:13:55,897 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:13:56,038 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:13:56,179 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 18:13:56,244 - INFO - Basepage[line:88] - Had find the element ' 锟斤拷锟斤拷锟斤拷图片锟斤拷证锟斤拷 ' successful by id via value: error_tips 
+2017-12-25 18:14:08,568 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: captcha 
+2017-12-25 18:14:08,702 - INFO - Basepage[line:122] - Had type ' xfkn ' in inputBox
+2017-12-25 18:28:21,471 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:28:21,471 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:28:25,581 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:28:33,760 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:28:35,184 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:28:35,185 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:28:35,262 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:28:35,422 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:28:35,489 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:28:35,650 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:28:38,800 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 锟斤拷录
+2017-12-25 18:28:38,892 - INFO - Basepage[line:88] - Had find the element ' 锟斤拷锟斤拷锟斤拷图片锟斤拷证锟斤拷 ' successful by id via value: error_tips 
+2017-12-25 18:28:46,713 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: captcha 
+2017-12-25 18:28:46,835 - INFO - Basepage[line:122] - Had type ' 6823 ' in inputBox
+2017-12-25 18:28:46,836 - INFO - skin01_login[line:51] - error tips input code
+2017-12-25 18:28:50,489 - INFO - Basepage[line:148] - Current page title is 锟阶达拷 | 锟斤拷锟斤拷锟斤拷印
+2017-12-25 18:28:50,556 - INFO - skin01_login[line:56] - 1qaz2wsx lonin_test pass
+2017-12-25 18:34:31,165 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:34:31,166 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:34:35,649 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:34:37,995 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:34:39,475 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:34:39,477 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:34:39,580 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:34:39,776 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:34:39,861 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:34:39,991 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 18:34:43,174 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 18:34:43,263 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 18:34:43,278 - ERROR - skin01_login[line:76] - new165 lonin_test fail
+2017-12-25 18:34:43,299 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:34:43,401 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:34:43,431 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:34:43,515 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:34:48,707 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:34:48,722 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:34:48,733 - INFO - skin01_login[line:70] - new165 lonin_test pass
+2017-12-25 18:34:49,363 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 18:37:40,334 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:37:40,335 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:37:44,440 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:37:45,410 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:37:46,833 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:37:46,835 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:37:46,910 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:37:47,073 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:37:47,142 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:37:47,250 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 18:37:50,390 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 18:37:50,475 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 18:37:50,488 - ERROR - skin01_login[line:76] - new165 lonin_test fail
+2017-12-25 18:37:50,507 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:37:50,592 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:37:50,635 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:37:50,750 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:37:55,860 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:37:55,870 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:37:55,875 - INFO - skin01_login[line:70] - new165 lonin_test pass
+2017-12-25 18:37:56,565 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 18:43:36,063 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:43:36,063 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:43:40,228 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:43:41,351 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:43:42,790 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:43:42,793 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:43:42,860 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:43:43,024 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:43:43,097 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:43:43,203 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 18:43:46,365 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 18:43:46,442 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 18:43:46,455 - ERROR - skin01_login[line:76] - new165 lonin_test fail
+2017-12-25 18:43:46,474 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:43:46,553 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:43:46,578 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:43:46,647 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:43:51,510 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:43:51,527 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:43:51,533 - INFO - skin01_login[line:70] - new165 lonin_test pass
+2017-12-25 18:43:52,130 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 18:44:45,663 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:44:45,663 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:44:50,315 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:44:51,383 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:44:52,810 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:44:52,810 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:44:52,872 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:44:53,049 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:44:53,114 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:44:53,207 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 18:44:56,353 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 18:44:56,422 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 18:44:56,437 - ERROR - skin01_login[line:76] - new165 lonin_test fail
+2017-12-25 18:44:56,453 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:44:56,540 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:44:56,563 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:44:56,632 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:45:01,707 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:45:01,727 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:45:01,733 - INFO - skin01_login[line:70] - new165 lonin_test pass
+2017-12-25 18:45:02,285 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 18:52:01,251 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 18:52:01,251 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 18:52:05,318 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 18:52:06,411 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 18:52:07,828 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 18:52:07,830 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 18:52:07,904 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:52:08,069 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:52:08,147 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:52:08,269 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 18:52:11,402 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 18:52:11,474 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 18:52:11,487 - ERROR - skin01_login[line:76] - new165 lonin_test fail
+2017-12-25 18:52:11,506 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 18:52:11,581 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 18:52:11,602 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 18:52:11,679 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 18:52:16,588 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:52:16,604 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 18:52:16,612 - INFO - skin01_login[line:70] - new165 lonin_test pass
+2017-12-25 18:52:17,513 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 19:03:03,313 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 19:03:03,313 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 19:03:07,867 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 19:03:09,074 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 19:03:10,606 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 19:03:10,608 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 19:03:10,676 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:03:10,857 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:03:10,926 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:03:11,032 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 19:03:14,162 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 19:03:14,267 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 19:03:14,267 - ERROR - skin01_login[line:82] - new165 lonin_test fail
+2017-12-25 19:03:14,299 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:03:14,396 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:03:14,425 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:03:14,491 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 19:03:20,343 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:03:20,357 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:03:20,362 - INFO - skin01_login[line:76] - new165 lonin_test pass
+2017-12-25 19:03:21,179 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 19:04:21,071 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 19:04:21,071 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 19:04:26,133 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 19:04:30,477 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 19:04:32,155 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 19:04:32,159 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 19:04:32,282 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:04:32,438 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:04:32,523 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:04:32,641 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 19:04:35,797 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 19:04:35,873 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 19:04:35,873 - ERROR - skin01_login[line:81] - new165 lonin_test fail
+2017-12-25 19:04:35,889 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:04:36,003 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:04:36,036 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:04:36,112 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 19:04:41,030 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:04:41,042 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:04:41,048 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-25 19:04:41,711 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 19:05:00,514 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 19:05:00,514 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 19:05:04,554 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 19:05:05,788 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 19:05:07,230 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 19:05:07,231 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 19:05:07,301 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:05:07,464 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:05:07,535 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:05:07,648 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 19:05:10,781 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 19:05:10,854 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 19:05:10,869 - ERROR - skin01_login[line:81] - new165 lonin_test fail
+2017-12-25 19:05:10,885 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:05:10,978 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:05:11,005 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:05:11,089 - INFO - Basepage[line:122] - Had type ' 1qaz2wsx ' in inputBox
+2017-12-25 19:05:16,012 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:05:16,024 - INFO - Basepage[line:148] - Current page title is 易打单 | 批量打印
+2017-12-25 19:05:16,030 - INFO - skin01_login[line:75] - new165 lonin_test pass
+2017-12-25 19:05:16,794 - INFO - Basepage[line:61] - Had take screenshot and save to folder : /screenshots
+2017-12-25 19:08:05,622 - INFO - BrowserEngine[line:32] - You had select Chrome browser.
+2017-12-25 19:08:05,622 - INFO - BrowserEngine[line:34] - The test server url is: https://www.1dadan.com
+2017-12-25 19:08:09,887 - INFO - BrowserEngine[line:41] - Starting Chrome browser.
+2017-12-25 19:08:11,801 - INFO - BrowserEngine[line:47] - Open url: https://www.1dadan.com
+2017-12-25 19:08:13,236 - INFO - BrowserEngine[line:49] - Maximize the current window.
+2017-12-25 19:08:13,239 - INFO - BrowserEngine[line:51] - Set implicitly wait 10 seconds.
+2017-12-25 19:08:13,304 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: userName 
+2017-12-25 19:08:13,498 - INFO - Basepage[line:122] - Had type ' new165 ' in inputBox
+2017-12-25 19:08:13,573 - INFO - Basepage[line:88] - Had find the element '  ' successful by id via value: passWord 
+2017-12-25 19:08:13,680 - INFO - Basepage[line:122] - Had type '  ' in inputBox
+2017-12-25 19:08:16,805 - INFO - Basepage[line:148] - Current page title is 易打单 登录
+2017-12-25 19:08:16,885 - INFO - Basepage[line:88] - Had find the element ' 密码不能为空 ' successful by id via value: error_tips 
+2017-12-25 19:08:16,900 - ERROR - skin01_login[line:81] - new165 lonin_test fail
