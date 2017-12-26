@@ -17,7 +17,8 @@ now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
 HtmlFile = report_path + now + "HTMLtemplate.html"
 fp = open(HtmlFile, "wb")
 
-# 构建suitesuite = unittest.TestLoader().discover("testsuits")
+# 构建suite
+suite = unittest.TestLoader().discover("testsuits")
 
 if __name__ == '__main__':
     print('自动化测试开始')
