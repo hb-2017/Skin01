@@ -148,6 +148,43 @@ class Basepage():
         logger.info("Current page title is %s" % self.browser.title)
         return self.browser.title
 
+
+    #判断元素是否存在
+    def element_is_dispalynd(self,selector):
+        # 分割元素
+        if '=>' not in selector:
+            try:
+                return self.browser.find_element_by_id(selector)
+            except:
+                element_dispaly = False
+        selector_by = selector.split('=>')[0]
+        selector_value = selector.split('=>')[1]
+        try:
+            if selector_by == "i" or selector_by == 'id':
+                self.browser.find_element_by_id(selector_value).is_displayed()
+            elif selector_by == "n" or selector_by == 'name':
+                element_dispaly = self.browser.find_element_by_name(selector_value).is_displayed()
+            elif selector_by == "c" or selector_by == 'class_name':
+                element_dispaly = self.browser.find_element_by_class_name(selector_value).is_displayed()
+            elif selector_by == "l" or selector_by == 'link_text':
+                element_dispaly = self.browser.find_element_by_link_text(selector_value).is_displayed()
+            elif selector_by == "p" or selector_by == 'partial_link_text':
+                element_dispaly = self.browser.find_element_by_partial_link_text(selector_value).is_displayed()
+            elif selector_by == "t" or selector_by == 'tag_name':
+                element_dispaly = self.browser.find_element_by_tag_name(selector_value).is_displayed()
+            elif selector_by == "x" or selector_by == 'xpath':
+                element_dispaly = self.browser.find_element_by_tag_xpath(selector_value).is_displayed()
+            elif selector_by == "s" or selector_by == 'selector_selector':
+                element_dispaly = self.browser.find_element_by_tag_selector_selector(selector_value).is_displayed()
+
+        except:
+            element_dispaly = False
+
+        return element_dispaly
+
+
+
+
     @staticmethod
     def sleep(seconds):
         time.sleep(seconds)
